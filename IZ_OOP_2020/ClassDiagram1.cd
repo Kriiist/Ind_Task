@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IZ_OOP_2020.Classes.repairHandler" Collapsed="true">
+    <Position X="23" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAIAAAA=</HashCode>
+      <FileName>Classes\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IZ_OOP_2020.Classes.Electric" Collapsed="true">
+    <Position X="21.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IZ_OOP_2020.Classes.Mechanic" Collapsed="true">
+    <Position X="23" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IZ_OOP_2020.Classes.RailMaster" Collapsed="true">
+    <Position X="24.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IZ_OOP_2020.Classes.route1" Collapsed="true">
+    <Position X="13" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAGAAAAABADABAAAAAAAAICAAQ=</HashCode>
+      <FileName>Classes\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IZ_OOP_2020.Classes.route2" Collapsed="true">
+    <Position X="14.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAGAAAAABADABAAAAAAABACAAQ=</HashCode>
+      <FileName>Classes\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IZ_OOP_2020.Classes.route3" Collapsed="true">
+    <Position X="16" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAGAAAAABADABAAAAAAAAgCAAQ=</HashCode>
+      <FileName>Classes\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IZ_OOP_2020.Classes.route4" Collapsed="true">
+    <Position X="17.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAGAAAAABADABAAAAAAAEACAAQ=</HashCode>
+      <FileName>Classes\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IZ_OOP_2020.Classes.route5" Collapsed="true">
+    <Position X="19" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAGAAAAABADABAAAAAAACACAAQ=</HashCode>
+      <FileName>Classes\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IZ_OOP_2020.Classes.Trams" Collapsed="true">
+    <Position X="8.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IZ_OOP_2020.Classes.LP" Collapsed="true">
+    <Position X="16" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAAAQ=</HashCode>
+      <FileName>Classes\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IZ_OOP_2020.Classes.Persons" Collapsed="true">
+    <Position X="23.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Classes\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IZ_OOP_2020.Classes.TramsRoute1" Collapsed="true">
+    <Position X="5.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IZ_OOP_2020.Classes.TramsRoute2" Collapsed="true">
+    <Position X="6.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IZ_OOP_2020.Classes.TramsRoute3" Collapsed="true">
+    <Position X="8.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IZ_OOP_2020.Classes.TramsRoute4" Collapsed="true">
+    <Position X="9.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IZ_OOP_2020.Classes.TramsRoute5" Collapsed="true">
+    <Position X="11.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IZ_OOP_2020.Classes.LPRoute1" Collapsed="true">
+    <Position X="17.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IZ_OOP_2020.Classes.LPRoute2" Collapsed="true">
+    <Position X="19" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IZ_OOP_2020.Classes.LPRoute3" Collapsed="true">
+    <Position X="13" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IZ_OOP_2020.Classes.LPRoute4" Collapsed="true">
+    <Position X="14.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IZ_OOP_2020.Classes.LPRoute5" Collapsed="true">
+    <Position X="16" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IZ_OOP_2020.Classes.PersonsRoute1" Collapsed="true">
+    <Position X="22.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Classes\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IZ_OOP_2020.Classes.PersonsRoute2" Collapsed="true">
+    <Position X="23.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Classes\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IZ_OOP_2020.Classes.PersonsRoute3" Collapsed="true">
+    <Position X="25.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Classes\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IZ_OOP_2020.Classes.PersonsRoute4" Collapsed="true">
+    <Position X="26.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Classes\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IZ_OOP_2020.Classes.PersonsRoute5" Collapsed="true">
+    <Position X="20.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Classes\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IZ_OOP_2020.Classes.LineSys" Collapsed="true">
+    <Position X="16" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAmAAAAAAACABAAAAAAAAACAAA=</HashCode>
+      <FileName>Classes\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

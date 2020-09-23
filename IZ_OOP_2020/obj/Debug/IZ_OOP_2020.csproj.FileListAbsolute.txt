@@ -1,0 +1,19 @@
+C:\Users\79889\source\repos\IZ_OOP_2020\IZ_OOP_2020\bin\Debug\IZ_OOP_2020.exe.config
+C:\Users\79889\source\repos\IZ_OOP_2020\IZ_OOP_2020\bin\Debug\IZ_OOP_2020.exe
+C:\Users\79889\source\repos\IZ_OOP_2020\IZ_OOP_2020\bin\Debug\IZ_OOP_2020.pdb
+C:\Users\79889\source\repos\IZ_OOP_2020\IZ_OOP_2020\obj\Debug\IZ_OOP_2020.csprojAssemblyReference.cache
+C:\Users\79889\source\repos\IZ_OOP_2020\IZ_OOP_2020\obj\Debug\IZ_OOP_2020.MainForm.resources
+C:\Users\79889\source\repos\IZ_OOP_2020\IZ_OOP_2020\obj\Debug\IZ_OOP_2020.Properties.Resources.resources
+C:\Users\79889\source\repos\IZ_OOP_2020\IZ_OOP_2020\obj\Debug\IZ_OOP_2020.csproj.GenerateResource.cache
+C:\Users\79889\source\repos\IZ_OOP_2020\IZ_OOP_2020\obj\Debug\IZ_OOP_2020.exe
+C:\Users\79889\source\repos\IZ_OOP_2020\IZ_OOP_2020\obj\Debug\IZ_OOP_2020.pdb
+D:\Институт\IZ_OOP_2020 (2)\IZ_OOP_2020\IZ_OOP_2020\bin\Debug\IZ_OOP_2020.exe.config
+D:\Институт\IZ_OOP_2020 (2)\IZ_OOP_2020\IZ_OOP_2020\bin\Debug\IZ_OOP_2020.exe
+D:\Институт\IZ_OOP_2020 (2)\IZ_OOP_2020\IZ_OOP_2020\bin\Debug\IZ_OOP_2020.pdb
+D:\Институт\IZ_OOP_2020 (2)\IZ_OOP_2020\IZ_OOP_2020\obj\Debug\IZ_OOP_2020.csprojAssemblyReference.cache
+D:\Институт\IZ_OOP_2020 (2)\IZ_OOP_2020\IZ_OOP_2020\obj\Debug\IZ_OOP_2020.MainForm.resources
+D:\Институт\IZ_OOP_2020 (2)\IZ_OOP_2020\IZ_OOP_2020\obj\Debug\IZ_OOP_2020.Properties.Resources.resources
+D:\Институт\IZ_OOP_2020 (2)\IZ_OOP_2020\IZ_OOP_2020\obj\Debug\IZ_OOP_2020.csproj.GenerateResource.cache
+D:\Институт\IZ_OOP_2020 (2)\IZ_OOP_2020\IZ_OOP_2020\obj\Debug\IZ_OOP_2020.csproj.CoreCompileInputs.cache
+D:\Институт\IZ_OOP_2020 (2)\IZ_OOP_2020\IZ_OOP_2020\obj\Debug\IZ_OOP_2020.exe
+D:\Институт\IZ_OOP_2020 (2)\IZ_OOP_2020\IZ_OOP_2020\obj\Debug\IZ_OOP_2020.pdb
